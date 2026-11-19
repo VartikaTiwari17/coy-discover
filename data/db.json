@@ -1,0 +1,408 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Aanya",
+      "age": 19,
+      "photo": "https://i.pravatar.cc/500?img=1",
+      "bio": "Chai over coffee, always.",
+      "city": "Delhi University",
+      "interests": [
+        "Music",
+        "Photography",
+        "Art"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Riya",
+      "age": 20,
+      "photo": "https://i.pravatar.cc/500?img=2",
+      "bio": "Weekend trekker, weekday coder.",
+      "city": "Pune",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Travel"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kabir",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/500?img=3",
+      "bio": "Will beat you at Mario Kart.",
+      "city": "IIT Bombay",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Cricket"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Meera",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/500?img=4",
+      "bio": "Looking for someone to share fries with.",
+      "city": "Bengaluru",
+      "interests": [
+        "Fitness",
+        "Coding",
+        "Gaming"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Arjun",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/500?img=5",
+      "bio": "Bookworm with a playlist for everything.",
+      "city": "Lucknow",
+      "interests": [
+        "Music",
+        "Photography",
+        "Art"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Isha",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/500?img=6",
+      "bio": "Part-time foodie, full-time dreamer.",
+      "city": "Christ University",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Travel"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Rohan",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/500?img=7",
+      "bio": "Gym at 6am, memes at 6pm.",
+      "city": "Mumbai",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Cricket"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sneha",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/500?img=8",
+      "bio": "Plant parent of 12 (and counting).",
+      "city": "Hyderabad",
+      "interests": [
+        "Fitness",
+        "Coding",
+        "Gaming"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Vihaan",
+      "age": 19,
+      "photo": "https://i.pravatar.cc/500?img=9",
+      "bio": "Chai over coffee, always.",
+      "city": "Jaipur",
+      "interests": [
+        "Music",
+        "Photography",
+        "Art"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Diya",
+      "age": 20,
+      "photo": "https://i.pravatar.cc/500?img=10",
+      "bio": "Weekend trekker, weekday coder.",
+      "city": "Chandigarh",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Travel"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Aditya",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/500?img=11",
+      "bio": "Will beat you at Mario Kart.",
+      "city": "Delhi University",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Cricket"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Kavya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/500?img=12",
+      "bio": "Looking for someone to share fries with.",
+      "city": "Pune",
+      "interests": [
+        "Fitness",
+        "Coding",
+        "Gaming"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Ishaan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/500?img=13",
+      "bio": "Bookworm with a playlist for everything.",
+      "city": "IIT Bombay",
+      "interests": [
+        "Music",
+        "Photography",
+        "Art"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Anika",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/500?img=14",
+      "bio": "Part-time foodie, full-time dreamer.",
+      "city": "Bengaluru",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Travel"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Dev",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/500?img=15",
+      "bio": "Gym at 6am, memes at 6pm.",
+      "city": "Lucknow",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Cricket"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Tara",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/500?img=16",
+      "bio": "Plant parent of 12 (and counting).",
+      "city": "Christ University",
+      "interests": [
+        "Fitness",
+        "Coding",
+        "Gaming"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Yash",
+      "age": 19,
+      "photo": "https://i.pravatar.cc/500?img=17",
+      "bio": "Chai over coffee, always.",
+      "city": "Mumbai",
+      "interests": [
+        "Music",
+        "Photography",
+        "Art"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Naina",
+      "age": 20,
+      "photo": "https://i.pravatar.cc/500?img=18",
+      "bio": "Weekend trekker, weekday coder.",
+      "city": "Hyderabad",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Travel"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Rahul",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/500?img=19",
+      "bio": "Will beat you at Mario Kart.",
+      "city": "Jaipur",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Cricket"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Pooja",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/500?img=20",
+      "bio": "Looking for someone to share fries with.",
+      "city": "Chandigarh",
+      "interests": [
+        "Fitness",
+        "Coding",
+        "Gaming"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Karan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/500?img=21",
+      "bio": "Bookworm with a playlist for everything.",
+      "city": "Delhi University",
+      "interests": [
+        "Music",
+        "Photography",
+        "Art"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Simran",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/500?img=22",
+      "bio": "Part-time foodie, full-time dreamer.",
+      "city": "Pune",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Travel"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Neil",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/500?img=23",
+      "bio": "Gym at 6am, memes at 6pm.",
+      "city": "IIT Bombay",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Cricket"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Aditi",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/500?img=24",
+      "bio": "Plant parent of 12 (and counting).",
+      "city": "Bengaluru",
+      "interests": [
+        "Fitness",
+        "Coding",
+        "Gaming"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Varun",
+      "age": 19,
+      "photo": "https://i.pravatar.cc/500?img=25",
+      "bio": "Chai over coffee, always.",
+      "city": "Lucknow",
+      "interests": [
+        "Music",
+        "Photography",
+        "Art"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Sara",
+      "age": 20,
+      "photo": "https://i.pravatar.cc/500?img=26",
+      "bio": "Weekend trekker, weekday coder.",
+      "city": "Christ University",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Travel"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Manav",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/500?img=27",
+      "bio": "Will beat you at Mario Kart.",
+      "city": "Mumbai",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Cricket"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Ritika",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/500?img=28",
+      "bio": "Looking for someone to share fries with.",
+      "city": "Hyderabad",
+      "interests": [
+        "Fitness",
+        "Coding",
+        "Gaming"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Samar",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/500?img=29",
+      "bio": "Bookworm with a playlist for everything.",
+      "city": "Jaipur",
+      "interests": [
+        "Music",
+        "Photography",
+        "Art"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Zoya",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/500?img=30",
+      "bio": "Part-time foodie, full-time dreamer.",
+      "city": "Chandigarh",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Travel"
+      ]
+    }
+  ],
+  "likedMe": [
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24,
+    27,
+    30
+  ],
+  "swipes": [],
+  "matches": []
+}
